@@ -2,8 +2,11 @@
 
 This project has a primary focus on predicting heart disease, aiming to make a positive impact on healthcare. The implementation of effective data-driven systems for heart disease prediction can significantly enhance the overall research and prevention efforts. By harnessing the power of data, we can better understand the factors contributing to heart diseases, thereby improving our ability to prevent and treat them. Machine Learning plays a pivotal role in this endeavor, enabling the development of predictive models that offer accurate insights into heart disease risks. These predictive models are poised to be valuable tools in the healthcare field, ultimately contributing to the well-being of individuals and facilitating healthier lives for many.
 Machine Learning algorithms used:
-Logistic Regression (Scikit-learn),Naive Bayes (Scikit-learn),Support Vector Machine (Linear) (Scikit-learn),Random Forest (Scikit-learn),
-XGBoost (Scikit-learn)
+* Logistic Regression (Scikit-learn)
+* Naive Bayes (Scikit-learn)
+* Support Vector Machine (Linear) (Scikit-learn)
+* Random Forest (Scikit-learn)
+* XGBoost (Scikit-learn)
 
 ## Intel's scikit-learn, or sklearnex
 
