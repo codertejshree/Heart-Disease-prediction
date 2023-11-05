@@ -5,7 +5,7 @@ Machine Learning algorithms used:
 Logistic Regression (Scikit-learn),Naive Bayes (Scikit-learn),Support Vector Machine (Linear) (Scikit-learn),Random Forest (Scikit-learn),
 XGBoost (Scikit-learn)
 
-#Intel's scikit-learn, or sklearnex
+#Intel's scikit-learn, or sklearnex 
 
 The seamless integration of Intel's scikit-learn, referred to as sklearnex, has marked the onset of an era characterized by heightened efficiency and accuracy within our heart disease prediction project. Leveraging the full potential of Intel's meticulously refined machine learning libraries, we've achieved a notable reduction in runtime, ultimately elevating the overall swiftness and effectiveness of our heart disease forecasting system. This amalgamation has effortlessly guided us into a domain where predictions are not only more efficient but also markedly more precise, underscoring a notable advancement in our ongoing mission to enhance heart disease prognosis.
 The smooth incorporation of Intel's scikit-learn, or sklearnex, has ushered in a new era of heightened effectiveness and accuracy in our heart disease prognosis initiative. Through the comprehensive utilization of Intel's fine-tuned machine learning libraries, we have successfully trimmed the runtime, resulting in an overall enhancement of the pace and efficacy of our heart disease prediction framework. This integration has seamlessly propelled us into a realm of more efficient and precise predictions, marking a significant milestone in our quest to improve heart disease forecasting.
